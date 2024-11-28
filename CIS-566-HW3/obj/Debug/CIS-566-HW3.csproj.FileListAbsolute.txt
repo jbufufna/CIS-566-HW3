@@ -1,0 +1,10 @@
+C:\Users\etime\OneDrive\Documents\GitHub\CIS-566-HW3\CIS-566-HW3\bin\Debug\CIS-566-HW3.exe.config
+C:\Users\etime\OneDrive\Documents\GitHub\CIS-566-HW3\CIS-566-HW3\bin\Debug\CIS-566-HW3.exe
+C:\Users\etime\OneDrive\Documents\GitHub\CIS-566-HW3\CIS-566-HW3\bin\Debug\CIS-566-HW3.pdb
+C:\Users\etime\OneDrive\Documents\GitHub\CIS-566-HW3\CIS-566-HW3\obj\Debug\CIS-566-HW3.csproj.AssemblyReference.cache
+C:\Users\etime\OneDrive\Documents\GitHub\CIS-566-HW3\CIS-566-HW3\obj\Debug\CIS_566_HW3.Form1.resources
+C:\Users\etime\OneDrive\Documents\GitHub\CIS-566-HW3\CIS-566-HW3\obj\Debug\CIS_566_HW3.Properties.Resources.resources
+C:\Users\etime\OneDrive\Documents\GitHub\CIS-566-HW3\CIS-566-HW3\obj\Debug\CIS-566-HW3.csproj.GenerateResource.cache
+C:\Users\etime\OneDrive\Documents\GitHub\CIS-566-HW3\CIS-566-HW3\obj\Debug\CIS-566-HW3.csproj.CoreCompileInputs.cache
+C:\Users\etime\OneDrive\Documents\GitHub\CIS-566-HW3\CIS-566-HW3\obj\Debug\CIS-566-HW3.exe
+C:\Users\etime\OneDrive\Documents\GitHub\CIS-566-HW3\CIS-566-HW3\obj\Debug\CIS-566-HW3.pdb
