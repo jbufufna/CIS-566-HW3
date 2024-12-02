@@ -45,6 +45,7 @@ namespace CIS_566_HW3
             this.button1.TabIndex = 0;
             this.button1.Text = "Convert";
             this.button1.UseVisualStyleBackColor = true;
+            this.button1.Click += new System.EventHandler(this.button1_Click);
             // 
             // label1
             // 
@@ -74,7 +75,6 @@ namespace CIS_566_HW3
             this.comboBox1.Size = new System.Drawing.Size(89, 21);
             this.comboBox1.TabIndex = 3;
             this.comboBox1.Text = "Mile";
-            this.comboBox1.SelectedIndexChanged += new System.EventHandler(this.comboBox1_SelectedIndexChanged);
             // 
             // textBox2
             // 
